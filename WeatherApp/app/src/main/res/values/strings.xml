@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="precip">Precip</string>
+    <string name="heat_index">Heat Index</string>
+    <string name="humidity">Humidity</string>
+    <string name="uv">UV Index</string>
+    <string name="visibility">Visibility</string>
+    <string name="cloud">Cloud</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+    <string name="hourly_weather">Hourly Weather</string>
+</resources>
